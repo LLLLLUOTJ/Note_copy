@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7beb2eeabffc32a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "752d374a5ea8c7c9",
+        "type": "tabs",
+        "dimension": 73.53463587921847,
+        "children": [
+          {
+            "id": "95eac8eca8d22018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture note/Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cb71af7705d3f89",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.pdf"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "e1706f40a3d5c7ad",
+        "type": "tabs",
+        "dimension": 26.46536412078153,
+        "children": [
+          {
+            "id": "7c7d8a96d60ee470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "解码核糖体甲基化的特殊RNA靶点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f96fd31fc232c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d7ae1ef0a331d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f98c4dc6eac7868",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23c189d39cb89104",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Feature engineering\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba308b4df52458b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cc3256c04039c69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf0b14faac1e944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dbff30ae2933a70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lecture note/Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "067d114232ad6fae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lecture note/Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6165d57db262d031",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abd1e62ccc6776e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lecture note/Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.md"
+              }
+            }
+          },
+          {
+            "id": "75b0162fa4c5e7d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "95eac8eca8d22018",
+  "lastOpenFiles": [
+    "解码核糖体甲基化的特殊RNA靶点.md",
+    "lecture note/Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.md",
+    "Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.pdf",
+    "editors.md",
+    "physical chemistry/相平衡.md",
+    "physical chemistry/热力学第二定律.pdf",
+    "physical chemistry/第5章 相平衡（第3节）.pdf",
+    "physical chemistry/多组分系统热力学.md",
+    "physical chemistry/公式.pdf",
+    "Pasted image 20231117101935.png",
+    "Pasted image 20231117101845.png",
+    "physical chemistry/第5章 相平衡（1-2节）更新.pdf",
+    "math/Linear Algebra.md",
+    "physical chemistry/热力学第二定律.md",
+    "Pasted image 20231116001910.png",
+    "Pasted image 20231116001122.png",
+    "Pasted image 20231116000520.png",
+    "Pasted image 20231115234327.png",
+    "compute sci/advanced/Machine Learning.md",
+    "compute sci/basic/Data Structures and Algorithms.md",
+    "Pasted image 20231114090534.png",
+    "compute sci/basic/language/Python.md",
+    "Pasted image 20231114002207.png",
+    "Pasted image 20231114000555.png",
+    "Pasted image 20231113235507.png",
+    "physical chemistry/第3章 多组分系统热力学 2023.pdf",
+    "psychology/Experimental psychology.md",
+    "lecture note",
+    "compute sci/basic/The Missing Semester/Data.md",
+    "data-wrangling.md",
+    "compute sci/basic/The Missing Semester/Shell.md",
+    "().md",
+    "math/discrete Math and probability theory.md",
+    "compute sci/basic/The Missing Semester/Vim.md",
+    "compute sci/basic/The Missing Semester",
+    "physical chemistry",
+    "psychology",
+    "compute sci/Have a try.canvas",
+    "compute sci/basic/language/C.md",
+    "compute sci/basic/language/Java.md",
+    "shell.md",
+    "compute sci/Shell_official.md",
+    "Untitled.canvas",
+    "Untitled 1.md"
+  ]
+}
