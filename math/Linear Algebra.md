@@ -186,3 +186,66 @@ Because $Ax=b$ may have no solution
 ![[Pasted image 20231116000520.png]]
 ![[Pasted image 20231116001122.png]]
 ![[Pasted image 20231116001910.png]]
+
+Least squares fitting by a line
+$(1,2),(2,2),(3,2)$
+$b=C+Dt$
+$C+D=1$
+$C+2D=2$
+$C+3D=2$
+$$
+\left[\begin{array}{}1&1\\1&2\\1&3
+\end{array}\right]\left[\begin{array}{ }C&D
+\end{array}\right]=\left[\begin{array}{}1 \\
+2 \\
+2
+\end{array}\right]
+$$
+
+![[Pasted image 20231121231429.png]]
+![[Pasted image 20231121232629.png]]
+Get best solution
+Find $\hat{x}=\left[\begin{matrix}{}1\\2\end{matrix}\right]$
+![[Pasted image 20231121234158.png]]
+Just fund the derivatives
+![[Pasted image 20231121235630.png]]
+IDEA $x^TA^TAx=0=(Ax)^T(Ax)$ -> $Ax=0$ -> $x=0$
+![[Pasted image 20231122000442.png]]
+
+![[Pasted image 20231123174051.png]]
+$q_{i}^Tq_{j}=\left\{\begin{matrix}1&i=j\\0i& \not =j\end{matrix}\right.$
+![[Pasted image 20231123174401.png]]
+![[Pasted image 20231123184937.png]]
+$A=LU$ -> $A=QR$
+
+Determinants $\det A=\mid A\mid$
+- $\det I=1$
+- Exchange rows: reverse sign of $\det$ 
+- ![[Pasted image 20231127233748.png]]
+- LINEAR EACH ROW
+- ![[Pasted image 20231127234118.png]]
+
+- 2 equal rows $\rightarrow$ $\det=0$
+- Subtract $l \times row\ i$ from $row\ k$ $\rightarrow$  $\det$ don't change 
+- ![[Pasted image 20231127235025.png]]
+- ![[Pasted image 20231127235549.png]]
+- $\det A=0$ when $A$ is singular
+- ![[Pasted image 20231128233553.png]]
+- $\det AB=(\det A)(\det B)$ 
+	- $\det A^{-1}=\frac{1}{\det A}$
+- $\det A^T=\det A$
+	- $\#10\quad\mid A^T\mid=\mid A\mid$
+	- $\mid U^TL^T\mid=\mid LU\mid$
+	- $\mid U^T\mid\mid L^T\mid=\mid L\mid\mid U\mid$
+
+Big formulation
+$$
+\det A=\sum\pm a_{1\alpha}a_{2\beta}a_{3\gamma}\cdots a_{n \omega}
+$$
+$$
+(\alpha,\beta,\gamma,\dots,\omega)=perm\ of(1,2,3,\dots,n)
+$$
+Cofactors $3\times3$
+$\det=a_{11}(a_{22}a_{33}-a_{23}a_{32})+a_{12}(\qquad)+\cdots$
+Cofactors of $a_{ij}=C_{ij}$
+$\pm \det(n-1\ \ with\ row\ i\ col\ j\ erased)$

@@ -529,4 +529,132 @@ MNIST Adam
  ![[Pasted image 20231112002523.png]]
  ![[Pasted image 20231112002943.png]]
 
- 
+#### Debugging a learning algorithm
+ - Get more training example
+ - Try smaller sets of features
+ - Try getting additional features
+ - Try adding polynomial features
+ - Try decreasing $\lambda$
+ - Try increasing $\lambda$
+
+#### Machine learning diagnostic
+
+### Evaluating your model
+![[Pasted image 20231121150857.png]]
+Linear regression
+![[Pasted image 20231121151218.png]]
+![[Pasted image 20231121151241.png]]
+It maybe fitting the training set well, but it don't mean that it well fit other well. So when we cut the set into training set and test set, we can view if it can fit new set or not by measure the test error. 
+
+classification problem
+![[Pasted image 20231121151745.png]]
+![[Pasted image 20231121152013.png]]
+
+#### The bias variance tradeoff
+Neural networks and bias variance 
+![[Pasted image 20231123205843.png]]
+
+![[Pasted image 20231123210325.png]]
+
+### iterative loop of ML development
+- Choose architecture (model, data, etc)
+- Train model
+- Diagnostics (bias, variance and error analysis)
+### Error analysis
+- More data features
+
+### Adding data
+- Data Augmentation
+	- Change the source of your data set 
+	- Meaningful change
+	- Data  synthesis
+		- Generate large number of data set of your application
+	- Engineering the data used by your system
+		- AI = Code + Data
+		- Data-centric approach: focus on data
+
+### Transfer learning
+- Only train output layers parameters
+- Train all parameters
+-  ![[Pasted image 20231126104435.png]]
+- Use the pre-train parameters to train your model
+- Download neural network network parameters pretrained on a large dataset with same input type (e.g., image, audio, text) as your application (or train your own). 
+- Further train (fine tune) the network on your own data. 
+
+#### Full cycle of a machine learning project
+- Scope project
+	- Define project
+- Collect data
+	- Define and collect data
+- Train model
+	- Training, error analysis & iterative improvement
+- Deploy in production
+	- Deploy, monitor and maintain system
+
+**Deployment**
+- Inference server
+- Mobile app 
+- Software engineering may be needed for:
+	- Ensure reliable and efficient predictions
+	- Scaling 
+	- Logging 
+	- System monitoring 
+	- Model updates
+- MLOps
+	- Machine learning operations 
+
+**Fairness, bias, and ethics**
+- Bias
+	- Some discriminates
+	- Blabla
+- Adverse use cases
+
+##### skewed dataset
+Rare disease classification example
+- Train classifier $f_{\vec{w},b}(\vec{x})$ ($y=1$ if disease present, $y=0$ otherwise)
+- Find that you've got 1% error on test set (99% correct diagnose)
+- Only 0.5% of patients have the disease
+
+Precision/recall
+-  $y=1$ in presence of rare class we want to detect
+- ![[Pasted image 20231126112406.png]]
+- Precision
+	- Of all patients where we predicted $y=1$ , what fraction actually have disease?
+	- $\frac{True\ positives}{\#precision\ positive}=\frac{True\ positive}{True\ pos+False\ pos}=\frac{15}{15+5}=0.75$
+- Recall
+	- Of all patients that actually have the rare disease, what fraction did we correctly detect as having it?
+	- $\frac{True\ positives}{\#actual\ positive}=\frac{True\ positive}{True\ pos+False\ nag}=\frac{15}{15+10}=0.6$
+- Predict 0 all the time which isn't a good model
+
+Trading off prediction and recall
+- Raise  threshold
+	- Higher prediction, lower recall
+- F 1 score
+	- $\frac{1}{\frac{1}{2}(\frac{1}{P}+\frac{1}{R})}=2\frac{PR}{P+R}$
+	- ![[Pasted image 20231126114739.png]]
+
+
+## Decision Tree Model
+### Cat classification example
+- Categorical (discrete values)
+### Decision Tree
+![[Pasted image 20231202104155.png]]
+### Decision Tree Learning
+- How to choose what feature to split on at each node?
+	- Maximize purty (or minimize impurity)
+- When do you stop splitting
+	- When a node is 100% one class
+	- When splitting a node will result in the tree exceeding a maximum depth
+	- When improvements in purity score are below a threshold
+	- When number of examples in a node is below a threshold
+#### Entropy as a measure of impurity
+![[Pasted image 20231202110116.png]]
+$H(p_{1})=-p_{1}\log_{2}(p_{1})-(1-p_{1})\log_{2}(1-p_{1})$
+#### Choosing a split information Gain
+![[Pasted image 20231202111212.png]]
+- So that we can choose root node
+- $p_{1}^{left}=\frac{4}{5}\quad p_{1}^{right}=\frac{1}{5}$
+- $w^{left}= \frac{5}{10}\quad w^{right}=\frac{5}{10}$
+- Information gain
+	- $=H(p_{1}^{root})-(w^{left}H(p_{1}^{left})+w^{right}H(p_{1}^{right}))$
+

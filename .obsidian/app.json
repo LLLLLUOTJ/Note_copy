@@ -3,6 +3,7 @@
   "vimMode": true,
   "strictLineBreaks": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
