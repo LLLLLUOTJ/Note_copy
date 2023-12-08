@@ -8,5 +8,8 @@
   "media-extended",
   "obsidian-tasks-plugin",
   "obsidian-timelines",
-  "easy-typing-obsidian"
+  "easy-typing-obsidian",
+  "obsidian-pandoc",
+  "obsidian-zotero-desktop-connector",
+  "zotlit"
 ]

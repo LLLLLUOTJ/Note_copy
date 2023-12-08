@@ -658,3 +658,45 @@ $H(p_{1})=-p_{1}\log_{2}(p_{1})-(1-p_{1})\log_{2}(1-p_{1})$
 - Information gain
 	- $=H(p_{1}^{root})-(w^{left}H(p_{1}^{left})+w^{right}H(p_{1}^{right}))$
 
+### Putting it over
+#### Decision Tree Learning
+- Start with all examples at the root node
+- Calculate information gain for all possible features, and pick the one with the highest information gain
+- Split dataset according to selected feature, and create left and right branches of the tree
+- Keep repeating splitting process until stopping criteria is met
+	- When a node is 100% one class
+	- When splitting a node will result in the tree exceeding a maximum depth
+	- Information gain from additional splits is less than threshold
+	- When number of examples in a node is below a threshold 
+#### Recursive splitting
+- Recursive algorithm
+
+### One-hot Encoding
+If a Categorical features take on $k$ values, create $k$ binary features (0 or 1 valued)
+### Continuous features
+Splitting on a continuous variable 
+![[Pasted image 20231203105343.png]]
+### Regression Tree
+#### Prediction a number
+- Choosing a split
+	- ![[Pasted image 20231203110324.png]]
+	- The largest redaction of variance 
+
+### Using multiple decision tree
+
+
+### Generating a tree sample
+- Given training set of size m 
+- For $b=1$ to $B$
+	- Using sampling with replacement to create a new training set of size $m$ Train a decision tree on the new dataset
+	- Bagged decision tree
+
+### Randomizing the feature the feature choice
+- At each node, when choosing a feature to use to split, if $n$ features are available, pick a random subset of $k<n$ features and allow the algorithm to only choose from that subset of features
+- $k=\sqrt{n}$
+- Random forest algorithm
+
+### XGBoost
+
+### Decision Trees vs. Neural Networks
+![[Pasted image 20231203152400.png]]

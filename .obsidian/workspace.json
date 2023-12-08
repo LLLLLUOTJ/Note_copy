@@ -4,38 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8dbd1c316ab8bb",
+        "id": "915e5da36f9162e9",
         "type": "tabs",
         "children": [
           {
-            "id": "68b39209e172c6f4",
+            "id": "178facc3e46c9d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/discrete Math and probability theory/hw_discrete Math and probability theory.md",
+                "file": "hw/线粒体与凋亡研究进展.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d7c961dd60fa689",
+            "id": "bbf81cf562c71c67",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "math/discrete Math and probability theory/hw/hw01-proofs.pdf"
-              }
-            }
-          },
-          {
-            "id": "33fd718a269845c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "math/discrete Math and probability theory/hw/hw01-sol.pdf"
+                "file": "physical chemistry/课件/第7章 化学动力学.pdf"
               }
             }
           }
@@ -70,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#化学势",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/discrete Math and probability theory/hw/hw01-proofs.pdf",
+                "file": "physical chemistry/课件/第7章 化学动力学.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/discrete Math and probability theory/hw/hw01-proofs.pdf",
+                "file": "physical chemistry/课件/第7章 化学动力学.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/discrete Math and probability theory/hw/hw01-proofs.pdf"
+                "file": "physical chemistry/课件/第7章 化学动力学.pdf"
               }
             }
           },
@@ -206,9 +196,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 57,
+        "x": 0,
         "y": 37,
-        "width": 692,
+        "width": 818,
         "height": 858,
         "maximize": false,
         "zoom": 0
@@ -240,61 +230,60 @@
         "x": 3,
         "y": 37,
         "width": 700,
-        "height": 865,
+        "height": 861,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0f98c4dc6eac7868",
+  "active": "bbf81cf562c71c67",
   "lastOpenFiles": [
-    "physiology/课件/人体解剖生理学绪论2023药学.pdf",
-    "physiology/课件/人体解剖生理学第五章血液的组成和功能2023.pdf",
-    "physiology/课件/人体解剖生理学第四章运动系统结构与功能2023.pdf",
-    "physiology/课件/人体解剖生理学第十章泌尿系统的结构与功能(一)2023.pdf",
-    "physiology/课件/人体解剖生理学第十章泌尿系统的结构与功能（二）2023.pdf",
-    "physiology/课件/人体解剖生理学第三章细胞的基本功能(下)2023.pdf",
-    "physiology/课件/人体解剖生理学第三章细胞的基本功能（上）2023.pdf",
-    "physiology/课件/人体解剖生理学第二章人体的基本组成2023.pdf",
-    "physiology/课件/第十一章感觉器官的结构与功能.pdf",
-    "physiology/课件/第九章能量代谢与体温.pdf",
-    "physiology/课件/第八章消化系统的结构与功能_lzm.pdf",
-    "compute sci/advanced/Machine Learning.md",
-    "Pasted image 20231202111212.png",
-    "Pasted image 20231202110825 1.png",
-    "Pasted image 20231202110825.png",
-    "Pasted image 20231202110116.png",
-    "Pasted image 20231202104155.png",
-    "math/discrete Math and probability theory/hw_discrete Math and probability theory.md",
-    "hw/线粒体与凋亡研究进展.md",
-    "hw/哥达纲领批判.md",
     "hw/线粒体与凋亡研究进展_资料.md",
-    "physical chemistry/化学动力学.md",
-    "physical chemistry/电化学.md",
-    "Pasted image 20231201103617.png",
-    "Pasted image 20231201095149.png",
-    "Pasted image 20231201094449.png",
+    "physical chemistry/课件/第8章 表面化学.pdf",
+    "physical chemistry/课件/第7章 化学动力学.pdf",
+    "hw/线粒体与凋亡研究进展.md",
+    "ZtTemplates/zt-note.eta.md",
+    "ZtTemplates/zt-colored.eta.md",
+    "ZtTemplates/zt-cite2.eta.md",
+    "ZtTemplates/zt-cite.eta.md",
+    "ZtTemplates/zt-annot.eta.md",
+    "ZtTemplates/zt-annots.eta.md",
+    "ZtTemplates/zt-field.eta.md",
+    "ZtTemplates",
+    "calbiConsequencesCOVID19Social2021.md",
+    "1.md",
     "math/Linear Algebra.md",
+    "math/discrete Math and probability theory/hw/hw01-sol.pdf",
+    "math/discrete Math and probability theory/hw_discrete Math and probability theory.md",
+    "compute sci/advanced/Machine Learning.md",
+    "math/discrete Math and probability theory/hw/hw02-sol.pdf",
+    "physical chemistry/课件/第7章 化学动力学(1-6 + 11节).pdf",
+    "math/discrete Math and probability theory/hw/hw02-stable matching.pdf",
+    "physical chemistry/电化学.md",
+    "physical chemistry/课件/第6章 电化学.pdf",
+    "math/discrete Math and probability theory/hw/hw00-sol.pdf",
+    "实验心理学——日久生情.md",
+    "hw/神经系统_hw.md",
+    "hw/哥达纲领批判.md",
+    "未命名.md",
+    "physiology/神经系统.md",
+    "physiology/课件/第十二章神经系统的结构与功能1（叶）2023.pdf",
+    "Pasted image 20231203152400.png",
+    "Pasted image 20231203113518.png",
+    "Pasted image 20231203113433.png",
+    "Pasted image 20231203112035.png",
+    "Pasted image 20231203112010.png",
+    "Pasted image 20231203111549.png",
+    "Pasted image 20231203110324.png",
+    "Pasted image 20231203110146.png",
+    "Pasted image 20231203105343.png",
+    "Pasted image 20231202121120.png",
+    "未命名 1.md",
+    "physical chemistry/化学动力学.md",
     "math/discrete Math and probability theory/discrete Math and probability theory.md",
     "post/post 编辑页2.md",
     "post/post编辑页.md",
-    "Pasted image 20231128233553.png",
-    "Pasted image 20231128233436.png",
-    "hw/lecture note/Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases.md",
-    "解码核糖体甲基化的特殊RNA靶点.md",
-    "未命名 5.md",
-    "未命名 4.md",
-    "未命名 3.md",
-    "未命名 2.md",
-    "番.md",
-    "2023-11-25.md",
     "compute sci/Have a try.canvas",
-    "compute sci/basic/Data Structures and Algorithms.md",
-    "physical chemistry/多组分系统热力学.md",
-    "physical chemistry/相平衡.md",
-    "compute sci/basic/language/C.md",
-    "compute sci/basic/The Missing Semester/Data.md",
-    "compute sci/basic/The Missing Semester/Shell.md",
     "Untitled.canvas"
   ]
 }

@@ -249,3 +249,34 @@ Cofactors $3\times3$
 $\det=a_{11}(a_{22}a_{33}-a_{23}a_{32})+a_{12}(\qquad)+\cdots$
 Cofactors of $a_{ij}=C_{ij}$
 $\pm \det(n-1\ \ with\ row\ i\ col\ j\ erased)$
+Cofactors formula
+$\det A=a_{11}C_{11}+a_{12}C_{12}+\cdots+a_{1n}C_{1n}$
+$\mid A_{n}\mid=\mid A_{n-1}\mid-\mid A_{n-2}\mid$
+$$
+\begin{bmatrix}
+a&b\\c&d
+\end{bmatrix}=\frac{1}{ad-bc}\begin{bmatrix}
+d&-b\\-c&a
+\end{bmatrix}
+$$
+$$
+A^{-1}=\frac{1}{\det A}C^T
+$$
+Check $AC^T=(\det A)I$
+
+$$
+\begin{bmatrix}
+a_{11}\cdots a_{1n} \\
+ \\
+a_{n1}\cdots a_{nn}
+\end{bmatrix}
+\begin{bmatrix}
+C_{11}&C_{n1} \\
+\vdots& \vdots \\
+C_{1n}&C_{nn}
+\end{bmatrix}=\begin{bmatrix}
+\det A&& \\
+&\det A& \\
+&&\det A
+\end{bmatrix}
+$$
