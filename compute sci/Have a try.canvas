@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ee37fe0dd3aae8c8","x":-380,"y":-360,"width":740,"height":540,"type":"link","url":"https://www.bilibili.com/video/BV1Eo4y1d7KZ/?spm_id_from=333.999.0.0&vd_source=2a6f005d50e762c0c4261ef3f03ee6c8"},
+		{"id":"59fdec4c16a0af28","x":-855,"y":-164,"width":400,"height":400,"type":"file","file":"compute sci/basic/The Missing Semester/Shell.md"}
+	],
+	"edges":[
+		{"id":"d77c447348670f98","fromNode":"ee37fe0dd3aae8c8","fromSide":"left","toNode":"59fdec4c16a0af28","toSide":"right"}
+	]
+}
