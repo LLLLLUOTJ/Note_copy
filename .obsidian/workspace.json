@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "本专业/分生/基因和基因组第一章 2023.pdf"
+                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本专业/分生/基因和基因组第一章 2023.pdf",
+                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "本专业/分生/基因和基因组第一章 2023.pdf",
+                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本专业/分生/基因和基因组第一章 2023.pdf"
+                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf"
               }
             }
           },
@@ -157,18 +157,18 @@
   },
   "active": "6031d1544fcbd364",
   "lastOpenFiles": [
-    "physical chemistry/课件/热力学第一定律第1章2023.pdf",
-    "physical chemistry/课件/热力学第二定律第2章 2023.pdf",
-    "physical chemistry/课件/第10章 大分子溶液.pdf",
-    "本专业/分生/基因表达调控一.pdf",
-    "本专业/分生/第八章药物转录组学.pdf",
-    "本专业/分生/蛋白质合成.pdf",
-    "本专业/分生/3转录、转录后加工12023.pdf",
-    "本专业/仪器分析/课件/2023 NMR 化学.pdf",
-    "本专业/仪器分析/课件/2023 NM.pdf",
-    "本专业/仪器分析/课件/2023_2D_NMR.pdf",
+    "本专业/细生/课件/细胞外基质相互作用2023.pdf",
+    "本专业/细生/课件/细胞生物学研究方法.ppt",
+    "本专业/细生/课件/细胞生物学研究方法.pdf",
+    "本专业/细生/课件/细胞能量转换.pdf",
+    "本专业/细生/课件/细胞连接与细胞.pdf",
+    "本专业/细生/课件/细胞核遗传信息传递2023.pdf",
+    "本专业/细生/课件/细胞骨架与细胞运动12023.pdf",
+    "本专业/细生/课件/细胞骨架与细胞运动2023.pdf",
+    "本专业/细生/课件/细胞概念与分子基础.ppt",
+    "本专业/细生/课件/细胞概念与分子基础.pdf",
+    "本专业/细生/课件/细胞分裂与细.pdf",
     "math/discrete Math and probability theory/hw_discrete Math and probability theory.md",
-    "math/discrete Math and probability theory/hw/hw01-sol.pdf",
     "2023-12-23.md",
     "2023-12-22.md",
     "zi_2.md",
