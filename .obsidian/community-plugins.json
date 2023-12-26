@@ -11,5 +11,7 @@
   "easy-typing-obsidian",
   "obsidian-pandoc",
   "obsidian-zotero-desktop-connector",
-  "zotlit"
+  "zotlit",
+  "dataview",
+  "obsidian-shellcommands"
 ]

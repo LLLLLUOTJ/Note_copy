@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "915e5da36f9162e9",
+        "id": "e6a486d9884da59e",
         "type": "tabs",
         "children": [
           {
-            "id": "178facc3e46c9d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hw/线粒体与凋亡研究进展.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf81cf562c71c67",
+            "id": "6031d1544fcbd364",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "physical chemistry/课件/第7章 化学动力学.pdf"
+                "file": "本专业/分生/基因和基因组第一章 2023.pdf"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physical chemistry/课件/第7章 化学动力学.pdf",
+                "file": "本专业/分生/基因和基因组第一章 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physical chemistry/课件/第7章 化学动力学.pdf",
+                "file": "本专业/分生/基因和基因组第一章 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physical chemistry/课件/第7章 化学动力学.pdf"
+                "file": "本专业/分生/基因和基因组第一章 2023.pdf"
               }
             }
           },
@@ -150,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,121 +155,55 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "floating": {
-    "id": "8c0b88cda7600574",
-    "type": "floating",
-    "children": [
-      {
-        "id": "87dfc291fa56b7cf",
-        "type": "window",
-        "children": [
-          {
-            "id": "6416a764cef16a88",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "850a27c38a72ef52",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "math/Linear Algebra.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 37,
-        "width": 818,
-        "height": 858,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "d39ea56ab2a42e87",
-        "type": "window",
-        "children": [
-          {
-            "id": "ab21da777c47cbe0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47a684fe80cc2676",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "compute sci/advanced/Machine Learning.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3,
-        "y": 37,
-        "width": 700,
-        "height": 861,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bbf81cf562c71c67",
+  "active": "6031d1544fcbd364",
   "lastOpenFiles": [
-    "hw/线粒体与凋亡研究进展_资料.md",
-    "physical chemistry/课件/第8章 表面化学.pdf",
-    "physical chemistry/课件/第7章 化学动力学.pdf",
-    "hw/线粒体与凋亡研究进展.md",
-    "ZtTemplates/zt-note.eta.md",
-    "ZtTemplates/zt-colored.eta.md",
-    "ZtTemplates/zt-cite2.eta.md",
-    "ZtTemplates/zt-cite.eta.md",
-    "ZtTemplates/zt-annot.eta.md",
-    "ZtTemplates/zt-annots.eta.md",
-    "ZtTemplates/zt-field.eta.md",
-    "ZtTemplates",
-    "calbiConsequencesCOVID19Social2021.md",
-    "1.md",
-    "math/Linear Algebra.md",
-    "math/discrete Math and probability theory/hw/hw01-sol.pdf",
+    "physical chemistry/课件/热力学第一定律第1章2023.pdf",
+    "physical chemistry/课件/热力学第二定律第2章 2023.pdf",
+    "physical chemistry/课件/第10章 大分子溶液.pdf",
+    "本专业/分生/基因表达调控一.pdf",
+    "本专业/分生/第八章药物转录组学.pdf",
+    "本专业/分生/蛋白质合成.pdf",
+    "本专业/分生/3转录、转录后加工12023.pdf",
+    "本专业/仪器分析/课件/2023 NMR 化学.pdf",
+    "本专业/仪器分析/课件/2023 NM.pdf",
+    "本专业/仪器分析/课件/2023_2D_NMR.pdf",
     "math/discrete Math and probability theory/hw_discrete Math and probability theory.md",
-    "compute sci/advanced/Machine Learning.md",
-    "math/discrete Math and probability theory/hw/hw02-sol.pdf",
-    "physical chemistry/课件/第7章 化学动力学(1-6 + 11节).pdf",
-    "math/discrete Math and probability theory/hw/hw02-stable matching.pdf",
-    "physical chemistry/电化学.md",
-    "physical chemistry/课件/第6章 电化学.pdf",
-    "math/discrete Math and probability theory/hw/hw00-sol.pdf",
-    "实验心理学——日久生情.md",
+    "math/discrete Math and probability theory/hw/hw01-sol.pdf",
+    "2023-12-23.md",
+    "2023-12-22.md",
+    "zi_2.md",
+    "zi_1.md",
+    "zi_3.md",
+    "zi_4.md",
+    "zi_11.md",
+    "Excalidraw/ExcaliBrain Snapshot - Machine Learning.excalidraw.md",
+    "hw/实验心理学——日久生情.md",
+    "PLAN/PSYCHOLOGY.md",
+    "PLAN/MATH.md",
+    "PLAN/COMPUTER SCI.md",
+    "PLAN/PHYSIC.md",
+    "PLAN.md",
+    "hw/字形字号.canvas",
+    "hw/字形字号判断研究报告.md",
+    "Pasted image 20231222192033.png",
+    "focusing_point.md",
+    "hw/pandoc导出.md",
     "hw/神经系统_hw.md",
+    "hw/基因编辑技术及在肿瘤学研究中的发展.md",
     "hw/哥达纲领批判.md",
-    "未命名.md",
-    "physiology/神经系统.md",
-    "physiology/课件/第十二章神经系统的结构与功能1（叶）2023.pdf",
-    "Pasted image 20231203152400.png",
-    "Pasted image 20231203113518.png",
-    "Pasted image 20231203113433.png",
-    "Pasted image 20231203112035.png",
-    "Pasted image 20231203112010.png",
-    "Pasted image 20231203111549.png",
-    "Pasted image 20231203110324.png",
-    "Pasted image 20231203110146.png",
-    "Pasted image 20231203105343.png",
-    "Pasted image 20231202121120.png",
-    "未命名 1.md",
-    "physical chemistry/化学动力学.md",
+    "hw/论哥达纲领批判.md",
+    "hw/微项目——基于化学规则的分子生成算法.md",
+    "hw/hw_编辑页.md",
     "math/discrete Math and probability theory/discrete Math and probability theory.md",
-    "post/post 编辑页2.md",
-    "post/post编辑页.md",
+    "Pasted image 20231026233639.png",
+    "Pasted image 20231209190942.png",
+    "Pasted image 20231217015745.png",
+    "Pasted image 20231217003442.png",
+    "Pasted image 20231216155045.png",
+    "Pasted image 20231216153759.png",
+    "Pasted image 20231212005827.png",
+    "Pasted image 20231212005556.png",
+    "Pasted image 20231212005438.png",
     "compute sci/Have a try.canvas",
     "Untitled.canvas"
   ]
