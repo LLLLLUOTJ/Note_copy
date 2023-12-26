@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6a486d9884da59e",
+        "id": "9587b6ea5fca3fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "6031d1544fcbd364",
+            "id": "916cb2ce855a6714",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf"
+                "file": "本专业/生化/课件/第三章 蛋白质(2周1-2节)-宽.pdf"
               }
             }
           }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc3256c04039c69c",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf",
+                "file": "本专业/生化/课件/第三章 蛋白质(2周1-2节)-宽.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf",
+                "file": "本专业/生化/课件/第三章 蛋白质(2周1-2节)-宽.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physical chemistry/课件/第9章 胶体分散系统.pdf"
+                "file": "本专业/生化/课件/第三章 蛋白质(2周1-2节)-宽.pdf"
               }
             }
           },
@@ -155,19 +156,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6031d1544fcbd364",
+  "active": "916cb2ce855a6714",
   "lastOpenFiles": [
+    "本专业/生化/课件/第二章 细胞和生物膜(自学为主).pdf",
+    "本专业/生化/课件/第一章 绪论(1周1-2节).pdf",
+    "math/discrete Math and probability theory/note/3 induction.pdf",
+    "math/discrete Math and probability theory/discrete Math and probability theory.md",
+    "math/discrete Math and probability theory/note/2 proof.pdf",
+    "physical chemistry/课件/第9章 胶体分散系统.pdf",
     "本专业/细生/课件/细胞外基质相互作用2023.pdf",
     "本专业/细生/课件/细胞生物学研究方法.ppt",
     "本专业/细生/课件/细胞生物学研究方法.pdf",
     "本专业/细生/课件/细胞能量转换.pdf",
     "本专业/细生/课件/细胞连接与细胞.pdf",
     "本专业/细生/课件/细胞核遗传信息传递2023.pdf",
-    "本专业/细生/课件/细胞骨架与细胞运动12023.pdf",
-    "本专业/细生/课件/细胞骨架与细胞运动2023.pdf",
-    "本专业/细生/课件/细胞概念与分子基础.ppt",
-    "本专业/细生/课件/细胞概念与分子基础.pdf",
-    "本专业/细生/课件/细胞分裂与细.pdf",
     "math/discrete Math and probability theory/hw_discrete Math and probability theory.md",
     "2023-12-23.md",
     "2023-12-22.md",
@@ -194,7 +196,6 @@
     "hw/论哥达纲领批判.md",
     "hw/微项目——基于化学规则的分子生成算法.md",
     "hw/hw_编辑页.md",
-    "math/discrete Math and probability theory/discrete Math and probability theory.md",
     "Pasted image 20231026233639.png",
     "Pasted image 20231209190942.png",
     "Pasted image 20231217015745.png",

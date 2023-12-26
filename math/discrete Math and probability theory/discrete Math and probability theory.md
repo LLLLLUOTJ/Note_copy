@@ -40,6 +40,7 @@
 -  $universal\ quantifier\ \forall$ ("for all")
 - $existential\ quantife\ \exists$ ("there exists")
 
+
 # Logic
 ## Propositional Logic
 Proposition
@@ -93,6 +94,7 @@ Implication
 	- $\neg(\forall xP(x))\equiv \exists x \neg P(x)$
 	- $\neg(\exists xP(x))\equiv \forall x \neg P(x)$
 
+
 # Proof
 - A finite sequence of steps, called $logical\ deductions$, which establishes the truth of a desired statement
 - The power of a it lies in the fact that using $finite$ means, we can guarantee the truth of a statement with $infinitely$ many cases
@@ -125,3 +127,11 @@ Implication
 -  A justification can be stated without proof only if you are absolutely confident that (1) it is correct and (2) the reader will automatically agree that it is correct
 - $lemmas$
 	- A subsidiary result that is useful in a more complex proof
+
+
+
+
+# Induction
+
+## Mathematical Induction
+
